@@ -1,5 +1,6 @@
-# NyanProgressBar
+# Custom Olympique de Marseille Progress Bar
+Custom plugin for IntelliJ IDEA and other JetBrains IDE
 
-A pretty nyan cat progress bar for IntelliJ IDEA and other JetBrains IDEs.
+Olympique de Marseille is a professional football club based in Marseille, France.
 
-[Page on plugin repository site](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
+Inspired by the Nyan Cat Progress Bar :)
