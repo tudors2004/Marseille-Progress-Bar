@@ -2,7 +2,7 @@
   <id>marseille-progressbar</id>
   <name>Marseille Progress Bar</name>
   <version>1.15</version>
-  <idea-version since-build="233"/>
+  <idea-version since-build="233" until-build="299.*"/>
   <vendor email="tudorsarghiuta@gmail.com">Tudor Sarghiuta</vendor>
 
   <description><![CDATA[
