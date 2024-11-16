@@ -2,7 +2,7 @@
   <id>marseille-progressbar</id>
   <name>Marseille Progress Bar</name>
   <version>1.15</version>
-  <idea-version since-build="233" until-build="299.*"/>
+  <idea-version since-build="233"/>
   <vendor email="tudorsarghiuta@gmail.com">Tudor Sarghiuta</vendor>
 
   <description><![CDATA[
@@ -11,7 +11,7 @@
 
   <change-notes><![CDATA[
         <ul>
-          <dt><b>1.0.0</b></dt>
+          <dt><b>1.15</b></dt>
           <li>First release</li>
         </ul>
     ]]></change-notes>
