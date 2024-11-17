@@ -1,6 +1,6 @@
 # Custom Olympique de Marseille Progress Bar
 Custom plugin for IntelliJ IDEA and other JetBrains IDE
 
-Olympique de Marseille is a professional football club based in Marseille, France.
+Inspired by the Nyan Cat Progress Bar, it replaces the standard progress bar with a Marseille-themed visual experience.
 
-Inspired by the Nyan Cat Progress Bar :)
+Olympique de Marseille is a professional football club based in Marseille, France.
